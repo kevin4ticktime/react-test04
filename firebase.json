@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "reactfirebase-test04",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
